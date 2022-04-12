@@ -1,0 +1,13 @@
+SCRIPT_VERSION = '1.0.0'
+WIFI_SSID = ''
+WIFI_PSD = ''
+BLYNK_AUTH = ''
+RELAYSTATEMSG = "Switching relay state for Virtual Pin: {} , ESP Digital Pin: {} to {}"
+EMAIL_API_KEY = ""
+IFTT_BASE_URL = "http://maker.ifttt.com/trigger/DHT22_TempTooHigh/with/key/"
+REQUEST_HEADERS = {'Content-Type': 'application/json'}
+OPENWEATHER_APPID = ""
+OPENWEATHER_CITYNAME = "navi%20mumbai"
+OPENWEATHER_BASE_API_URL = "http://api.openweathermap.org/data/2.5/weather?"
+WORLDTIMEAPI_URL = "http://worldtimeapi.org/api/timezone/Asia/Kolkata"
+PI_LOCAL_SERVER_URL = 'http://192.168.1.112:8000'
